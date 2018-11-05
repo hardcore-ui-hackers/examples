@@ -4,7 +4,8 @@ module.exports = {
     base: '/examples/',
     themeConfig: {
         sidebar: [
-            'text/'
+            'text/',
+            'buttons/'
         ]
     }
 }
