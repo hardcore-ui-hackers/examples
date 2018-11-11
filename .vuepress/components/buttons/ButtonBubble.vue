@@ -115,7 +115,6 @@
 
 <script lang="javascript">
     document.getElementsByClassName("bubbly-button").onclick = function() {
-        alert('Hello!')
     }
 
     const animateButton = function(e) {
