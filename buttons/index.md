@@ -21,3 +21,9 @@
 <buttons-ButtonBubble/>
 
 <<< @/.vuepress/components/buttons/ButtonBubble.vue
+## Like 
+Улетающие вверх сердца созданы селектором атрибута: `[class^="heart-animation-"]`. При анимации им добавляется класс со своим `keyframe` (уникальным, определяющим перемещение каждого).
+
+<buttons-ButtonLike/>
+
+<<< @/.vuepress/components/buttons/ButtonLike.vue

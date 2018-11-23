@@ -9,8 +9,7 @@
         color: #fff;
         padding: 1em 2em;
         font-size: 1em;
-        margin-top: 100px;
-        margin-bottom: 60px;
+        margin: 30px 0;
         appearance: none;
         background-color: #ff0081;
         border-radius: 4px;
