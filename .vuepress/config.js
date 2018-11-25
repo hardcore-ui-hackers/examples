@@ -5,7 +5,8 @@ module.exports = {
     themeConfig: {
         sidebar: [
             'text/',
-            'buttons/'
+            'buttons/',
+            'openers/'
         ]
     }
 }
